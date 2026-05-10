@@ -88,19 +88,13 @@ I aim to:
 * Implementations inspired by mentors (with my own practice and modifications)
 
 ---
-
-## 📅 Daily Progress Tracker
-
-I am committed to pushing updates **every day** 🚀
-
-| Day   | Topic                        | Status |
-| ----- | ---------------------------- | ------ |
-| Day 1 | Setup & Introduction to LLMs | ✅      |
-| Day 2 | Prompt Engineering Basics    | ✅      |
-| Day 3 | LangChain Intro              | 🔄     |
-| ...   | ...                          | ...    |
-
-*(This table will be updated daily)*
+llms
+prompt engineering
+langchain
+langgraph
+rag
+mcp
+context engineering
 
 ---
 
